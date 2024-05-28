@@ -1,6 +1,6 @@
 # Aisle Scanner
 
-The Scanning App is a mobile application developed using Expo's React Native tools. This app allows users to scan barcodes of products and dynamically create a layout of the scanned items in real time.
+The Aisle Scanner app is a mobile application developed using Expo's React Native tools. This app allows users to scan barcodes of products and dynamically create a layout of the scanned items in real time.
 
 ## Installation
 
@@ -9,13 +9,13 @@ To install and run the Scanning App on your local machine, follow these steps:
 1. **Clone Repository**:
 
    ```bash
-   git clone https://github.com/Succorro/Scanning-app.git
+   git clone https://github.com/Succorro/Aisle_Scanner.git
    ```
 
 2. **Navigate to Project Directory**:
 
    ```bash
-   cd Scanning-app
+   cd Aisle_Scanner
    ```
 
 3. **Install Dependencies**:
